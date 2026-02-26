@@ -12,6 +12,7 @@ class MaxConOnes {
             count=0;
          }
        }
+        
        return max; 
     }
 }
