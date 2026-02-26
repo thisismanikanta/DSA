@@ -7,6 +7,7 @@ class Solution {
                 a++;
             }
         }
+        
         while(a<nums.length){
             nums[a]=0;
             a++;
