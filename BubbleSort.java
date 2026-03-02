@@ -34,5 +34,6 @@ class BubbleSort {
 
         BubbleSort sorter = new BubbleSort();
         sorter.bubbleSort(arr);
+        
     }
 }
