@@ -1,5 +1,4 @@
 import java.util.*;
-
 class MergeSort {
     public void merge(int[] arr, int low, int mid, int high) {
         List<Integer> temp = new ArrayList<>();
