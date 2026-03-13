@@ -1,6 +1,14 @@
-# 📚 Data Structures & Algorithms (DSA)
+<pre align="center">
+  *****      *****     *****  
+  *    *    *         *     *  
+  *     *   *         *     *  
+  *     *    *****    *******  
+  *     *         *   *     *  
+  *    *          *   *     *  
+  *****       *****   *     *  
 
-![DSA Banner](images/dsa.png)
+DATA STRUCTURES AND ALGORITHMS
+</pre>
 
 ## What is DSA?
 
