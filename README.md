@@ -41,4 +41,4 @@ DATA STRUCTURES AND ALGORITHMS
 
 ---
 
-> “Knowing DSA is not just about coding; it’s about thinking in an optimized way.” 🚀
+> “Knowing DSA is not just about coding; it’s about thinking in an optimized way.” 
